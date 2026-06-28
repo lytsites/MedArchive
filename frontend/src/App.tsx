@@ -1213,12 +1213,6 @@ function AppBody() {
                         : 'Просмотр архива и всех входящих документов.'}
             </p>
           </div>
-          <div className="pill-row">
-            <span>Документы</span>
-            <span>Проверка</span>
-            <span>Поиск</span>
-            <span>Архивы</span>
-          </div>
         </header>
 
         {route.page === 'dashboard' && (
