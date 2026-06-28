@@ -1214,10 +1214,10 @@ function AppBody() {
             </p>
           </div>
           <div className="pill-row">
-            <span>FastAPI</span>
-            <span>PostgreSQL</span>
-            <span>Redis</span>
-            <span>Celery</span>
+            <span>Документы</span>
+            <span>Проверка</span>
+            <span>Поиск</span>
+            <span>Архивы</span>
           </div>
         </header>
 
